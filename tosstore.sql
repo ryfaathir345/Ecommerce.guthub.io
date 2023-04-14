@@ -135,7 +135,7 @@ ALTER TABLE `tb_category`
   MODIFY `category_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
--- AUTO_INCREMENT untuk tabel `tb_product`
+-- AUTO_INCREMENT untuk tabel `tb_product
 --
 ALTER TABLE `tb_product`
   MODIFY `product_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
